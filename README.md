@@ -17,7 +17,7 @@ Obs: Esse projeto foi realizado pelo celular porque não tenho um computador e n
 
 ---
 
-#### Fotos da API/Swagger para realizar os gets e posts:
+#### Fotos da API/Swagger para a realização dos gets e posts:
 🔸 Heroku:
 <img height= "500" src="https://i.ibb.co/hKX2gLM/Screenshot-20220511-011711.png" alt="Screenshot-20220511-011711" border="0" />
 
