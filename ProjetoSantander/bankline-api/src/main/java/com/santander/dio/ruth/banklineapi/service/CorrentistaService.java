@@ -29,4 +29,8 @@ public class CorrentistaService {
 		repository.save(correntista);
 
 	}
+
+	public void delete(Integer id) {
+    repository.deleteById(id);
+  }
 }

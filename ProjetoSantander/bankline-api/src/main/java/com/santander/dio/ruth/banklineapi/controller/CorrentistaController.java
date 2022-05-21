@@ -29,4 +29,10 @@ public class CorrentistaController {
 	public void save(@RequestBody NovoCorrentista correntista) {
 		service.save(correntista);
 	}
+
+	@DeleteMapping("/delete/{id}")
+	public void delete(@PathVariable Integer id) {
+		service.delete(id);
+	}
+
 }
